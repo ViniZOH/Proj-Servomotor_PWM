@@ -1,0 +1,8 @@
+[wokwi]
+version = 1
+firmware = 'build/Pratica_PWM.hex'
+elf = 'build/Pratica_PWM.elf'
+
+[[pinout]]
+pin = 22
+function = "pwm"
